@@ -27,7 +27,7 @@ Haproxy: Haproxy acts as load balancer to reduce the load on the single webserve
 
 How to run ansible yaml file:
 Step1: pull this git repository
- git pull https://github.com/vamsiveeramreddy/NetworkAutomation-.git
+ git pull https://github.com/Zoro2712/NetworkAutomation
 Step-2: create cloud instances with Ssh key and create bastion host     for all servers. 
 (Creating Ssh key: ssh-keygen) 
 Copy ssh-config file at your .ssh location and change server names to your config file. Change the ip address in the ssh-config with your instances ip addresses.
